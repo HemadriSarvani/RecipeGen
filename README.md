@@ -1,5 +1,5 @@
-#RecipeGen
-##NLP-Based Recipe Generation Model
+# RecipeGen
+## NLP-Based Recipe Generation Model
 
 
 **This project focuses on generating recipes using advanced Natural Language Processing (NLP) techniques.
