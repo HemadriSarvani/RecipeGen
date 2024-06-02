@@ -24,7 +24,6 @@ We created RecipeGen, an NLP-based model, to solve this problem. Our model takes
 1. **Maximize Compatibility**: Instead of trying to use all available ingredients, we create recipes with high compatibility scores.
 2. **Enhance Cooking Experience**: Inspire you with new and exciting recipes, making cooking more enjoyable.
 
-Using advanced NLP techniques, including T5, LSTM with GloVe embeddings, and GPT-2, our model generates relevant and appealing recipes to transform your cooking experience into a creative and efficient process.
 
 ## Data Collection
 
