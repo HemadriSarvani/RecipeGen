@@ -1,7 +1,7 @@
 # RecipeGen
 ## NLP-Based Recipe Generation Model
 
-**Welcome to RecipeGen! This project is all about generating recipes using advanced Natural Language Processing (NLP) techniques. We explored various models and methods to create high-quality recipe suggestions. Below, we document our approach, methodologies, and the models we used, leading up to our final selection.**
+**Welcome to RecipeGen! This project is all about generating recipes using advanced Natural Language Processing (NLP) techniques. We explored various models and methods to create recipe suggestions. Below, we document our approach, methodologies, and the models we used, leading up to our final selection.**
 
 ## Table of Contents
 1. [Introduction](#introduction)
