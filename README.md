@@ -29,7 +29,7 @@ Using advanced NLP techniques, including T5, LSTM with GloVe embeddings, and GPT
 ## Data Collection
 
 We collected our dataset in two ways:
-1. **Web Scraping**: We scraped recipes from foodstory.com and stored them in a CSV file.
+1. **Web Scraping**: We scraped recipes from foodstory.com website and stored them in a CSV file.
 2. **Kaggle Dataset**: We also used a comprehensive dataset from Kaggle, which provided rich information on Indian recipes, including ingredients and cooking instructions essential for training our models.
 
 ## Data Preprocessing
