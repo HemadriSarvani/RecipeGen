@@ -25,8 +25,8 @@ Deciding what to cook with the ingredients on hand can be a challenge. Tradition
 
 We propose an NLP-based recipe generation model to solve this problem. This model will take a list of ingredients as input and generate diverse, contextually appropriate recipes. The goals are to:
 
-    1. Maximize Ingredient Use: Minimize food waste by suggesting recipes that use available ingredients effectively.
-    2. Enhance Cooking Experience: Inspire with new and exciting recipes, making cooking more enjoyable.
+**1. Maximize Ingredient Use: Minimize food waste by suggesting recipes that use available ingredients effectively.**
+**2. Enhance Cooking Experience: Inspire with new and exciting recipes, making cooking more enjoyable.**
     
 Using advanced NLP techniques, including T5, LSTM with GloVe embeddings, and GPT-2, this model will generate relevant and appealing recipes to transform the cooking experience into a creative and efficient process.
 
