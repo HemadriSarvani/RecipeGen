@@ -85,16 +85,28 @@ After evaluating the performance of different models, we selected GPT-2 as our f
 
 GPT-2 demonstrated excellent performance in generating recipes that were both coherent and contextually relevant. The model successfully captured the nuances of Indian cuisine, providing detailed and accurate recipes.
 
+
 ## Contributors
 
-- **Greeshma Reddy SE21UCSE067**
+- **Greeshma Reddy**
+  - **ID**: SE21UCSE067
+  - **Contributions**: Model architecture design, fine-tuning models
+  - **GitHub**: [Greeshma Reddy](https://github.com/Greesh-Reddy)
 
-- **Sarvani Hemadri SE21UCSE081**
+- **Sarvani Hemadri**
+  - **ID**: SE21UCSE081
+  - **Contributions**: Data preprocessing, embedding techniques, model experimentation
+  - **GitHub**: [Sarvani Hemadri](https://github.com/HemadriSarvani)
 
-- **Sathvika Pallamraju SE21UCSE141**
-  
-- **B Sri Vaishnavi SE21UCSE038**
+- **Sathvika Pallamraju**
+  - **ID**: SE21UCSE141
+  - **Contributions**: Data collection, model training, evaluation
+  - **GitHub**: [Sathvika Pallamraju](https://github.com/sathvikap12)
 
+- **B Sri Vaishnavi**
+  - **ID**: SE21UCSE038
+  - **Contributions**: Implementation of recipe generation script, usage documentation
+  - **GitHub**: [B Sri Vaishnavi](https://github.com/BSriVaishnavi)
 
 ## Acknowledgements 
 1. https://myfoodstory.com/
