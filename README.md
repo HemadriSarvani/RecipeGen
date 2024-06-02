@@ -31,7 +31,8 @@ Explore new recipes and transform your cooking experience with our innovative re
 
 ## Data Collection
 
-We collected our dataset from Kaggle due to its comprehensive information on Indian recipes. The Kaggle dataset provided a rich source of ingredients and cooking instructions that were essential for training our models.
+We collected our dataset in two ways. 
+We performed wescarping Kaggle due to its comprehensive information on Indian recipes. The Kaggle dataset provided a rich source of ingredients and cooking instructions that were essential for training our models.
 
 ## Data Preprocessing
 
