@@ -21,13 +21,14 @@ Here, we document our approach, methodologies, and the models we utilized, leadi
 
 ## Introduction
 
-Have you ever wondered what delicious meals you could create with the ingredients you have on hand? Our project tackles this question by using advanced Natural Language Processing (NLP) techniques to generate recipes based on a given list of ingredients.
+Deciding what to cook with the ingredients on hand can be a challenge. Traditional recipes and online searches may not offer solutions tailored to the specific ingredients you have, leading to food waste or repetitive meals.
 
-This model is designed to make cooking more accessible and creative. By training on a rich dataset of Indian recipes, it captures the diverse flavors and culinary traditions, offering you a variety of meal suggestions, from everyday dishes to gourmet recipes.
+We propose an NLP-based recipe generation model to solve this problem. This model will take a list of ingredients as input and generate diverse, contextually appropriate recipes. The goals are to:
 
-We experimented with several NLP models, including T5, LSTM with GloVe embeddings, and found GPT-2 to be the most effective. GPT-2 generates accurate and contextually relevant recipes, helping you discover new culinary possibilities and make the most of your ingredients.
-
-Explore new recipes and transform your cooking experience with our innovative recipe generation model.
+    1. Maximize Ingredient Use: Minimize food waste by suggesting recipes that use available ingredients effectively.
+    2. Enhance Cooking Experience: Inspire with new and exciting recipes, making cooking more enjoyable.
+    
+Using advanced NLP techniques, including T5, LSTM with GloVe embeddings, and GPT-2, this model will generate relevant and appealing recipes to transform the cooking experience into a creative and efficient process.
 
 ## Data Collection
 
