@@ -109,6 +109,6 @@ GPT-2 demonstrated excellent performance in generating recipes that were both co
   - **GitHub**: [B Sri Vaishnavi](https://github.com/BSriVaishnavi)
 
 ## Acknowledgements 
-1. https://myfoodstory.com/
-2. https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset/code
+1. [My Food Story](https://myfoodstory.com/)
+2. [Cleaned_Indian_Dataset](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset/code)
      
