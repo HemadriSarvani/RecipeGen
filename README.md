@@ -11,10 +11,9 @@
 5. [Model Architectures](#model-architectures)
 6. [Final Model](#final-model)
 7. [Results](#results)
-8. [Usage](#usage)
-9. [Contributors](#contributors)
-10. [Acknowledgements](#acknowledgements)
-11. [Citing Sources](#citing-sources)
+8. [Contributors](#contributors)
+9. [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 
@@ -52,6 +51,14 @@ We explored two main embedding techniques to represent the text data:
    - Provides contextual word embeddings.
    - Although powerful, it did not perform as well as Word2Vec in our similarity scoring.
 
+## Processing
+
+1. **Finding Similarity score for the ingredients**:
+   - Finding score for the embedings generated in the above step. 
+   - Identifys compatable pairs that make the finaly recepie coherent.
+   - Discarding the ingredient with low score to maintain balance of the dish.
+  
+     
 ## Model Architectures
 
 We experimented with the following model architectures:
@@ -70,6 +77,7 @@ We experimented with the following model architectures:
    - Selected for its superior text generation capabilities.
    - Fine-tuned to generate recipes based on the dataset.
 
+
 ## Final Model
 
 After evaluating the performance of different models, we selected GPT-2 as our final model for recipe generation. GPT-2's ability to generate coherent and contextually accurate recipes made it the best choice for this project.
@@ -77,3 +85,19 @@ After evaluating the performance of different models, we selected GPT-2 as our f
 ## Results
 
 GPT-2 demonstrated excellent performance in generating recipes that were both coherent and contextually relevant. The model successfully captured the nuances of Indian cuisine, providing detailed and accurate recipes.
+
+## Contributors
+
+- **Greeshma Reddy SE21UCSE067**
+
+- **Sarvani Hemadri SE21UCSE081**
+
+- **Sathvika Pallamraju SE21UCSE141**
+  
+- **B Sri Vaishnavi SE21UCSE038**
+
+
+## Acknowledgements 
+1. https://myfoodstory.com/
+2. https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset/code
+     
